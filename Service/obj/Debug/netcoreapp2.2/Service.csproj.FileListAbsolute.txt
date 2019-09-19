@@ -1,0 +1,8 @@
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Service\obj\Debug\netcoreapp2.2\Service.pdb

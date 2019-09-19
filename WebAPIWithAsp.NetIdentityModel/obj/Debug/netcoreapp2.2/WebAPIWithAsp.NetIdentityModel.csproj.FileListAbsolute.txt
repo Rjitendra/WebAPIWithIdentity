@@ -1,0 +1,17 @@
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\WebAPIWithAsp.NetIdentityModel\bin\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.deps.json
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\WebAPIWithAsp.NetIdentityModel\bin\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.runtimeconfig.json
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\WebAPIWithAsp.NetIdentityModel\bin\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.runtimeconfig.dev.json
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\WebAPIWithAsp.NetIdentityModel\bin\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.dll
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\WebAPIWithAsp.NetIdentityModel\bin\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.pdb
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\WebAPIWithAsp.NetIdentityModel\bin\Debug\netcoreapp2.2\Model.dll
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\WebAPIWithAsp.NetIdentityModel\bin\Debug\netcoreapp2.2\Model.pdb
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.csprojAssemblyReference.cache
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.csproj.CoreCompileInputs.cache
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.RazorAssemblyInfo.cache
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.RazorAssemblyInfo.cs
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.AssemblyInfoInputs.cache
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.AssemblyInfo.cs
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.RazorTargetAssemblyInfo.cache
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.csproj.CopyComplete
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.dll
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.pdb

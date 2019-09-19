@@ -1,0 +1,12 @@
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Model\bin\Debug\netcoreapp2.2\Model.deps.json
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Model\bin\Debug\netcoreapp2.2\Model.dll
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Model\obj\Debug\netcoreapp2.2\Model.csproj.CoreCompileInputs.cache
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Model\obj\Debug\netcoreapp2.2\Model.AssemblyInfoInputs.cache
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Model\obj\Debug\netcoreapp2.2\Model.AssemblyInfo.cs
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Model\obj\Debug\netcoreapp2.2\Model.csprojAssemblyReference.cache
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Model\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Model\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Model\obj\Debug\netcoreapp2.2\Model.csproj.CopyComplete
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Model\bin\Debug\netcoreapp2.2\Model.pdb
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Model\obj\Debug\netcoreapp2.2\Model.dll
+C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Model\obj\Debug\netcoreapp2.2\Model.pdb
