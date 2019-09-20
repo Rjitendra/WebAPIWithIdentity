@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Jitendra\\Workplace\\WEBAPI\\WebAPIWithAsp.NetIdentityModel\\WebAPIWithAsp.NetIdentityModel\\WebAPIWithAsp.NetIdentityModel.csproj": {}
+    "C:\\Workspace\\webAPI\\WebAPIWithIdentity\\WebAPIWithAsp.NetIdentityModel\\WebAPIWithAsp.NetIdentityModel.csproj": {}
   },
   "projects": {
-    "C:\\Jitendra\\Workplace\\WEBAPI\\WebAPIWithAsp.NetIdentityModel\\Model\\Model.csproj": {
+    "C:\\Workspace\\webAPI\\WebAPIWithIdentity\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jitendra\\Workplace\\WEBAPI\\WebAPIWithAsp.NetIdentityModel\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Workspace\\webAPI\\WebAPIWithIdentity\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Jitendra\\Workplace\\WEBAPI\\WebAPIWithAsp.NetIdentityModel\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\jbehera\\.nuget\\packages\\",
-        "outputPath": "C:\\Jitendra\\Workplace\\WEBAPI\\WebAPIWithAsp.NetIdentityModel\\Model\\obj\\",
+        "projectPath": "C:\\Workspace\\webAPI\\WebAPIWithIdentity\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\jbehera.BRIDGETREE\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\webAPI\\WebAPIWithIdentity\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jbehera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jbehera.BRIDGETREE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,20 +72,20 @@
         }
       }
     },
-    "C:\\Jitendra\\Workplace\\WEBAPI\\WebAPIWithAsp.NetIdentityModel\\WebAPIWithAsp.NetIdentityModel\\WebAPIWithAsp.NetIdentityModel.csproj": {
+    "C:\\Workspace\\webAPI\\WebAPIWithIdentity\\WebAPIWithAsp.NetIdentityModel\\WebAPIWithAsp.NetIdentityModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jitendra\\Workplace\\WEBAPI\\WebAPIWithAsp.NetIdentityModel\\WebAPIWithAsp.NetIdentityModel\\WebAPIWithAsp.NetIdentityModel.csproj",
+        "projectUniqueName": "C:\\Workspace\\webAPI\\WebAPIWithIdentity\\WebAPIWithAsp.NetIdentityModel\\WebAPIWithAsp.NetIdentityModel.csproj",
         "projectName": "WebAPIWithAsp.NetIdentityModel",
-        "projectPath": "C:\\Jitendra\\Workplace\\WEBAPI\\WebAPIWithAsp.NetIdentityModel\\WebAPIWithAsp.NetIdentityModel\\WebAPIWithAsp.NetIdentityModel.csproj",
-        "packagesPath": "C:\\Users\\jbehera\\.nuget\\packages\\",
-        "outputPath": "C:\\Jitendra\\Workplace\\WEBAPI\\WebAPIWithAsp.NetIdentityModel\\WebAPIWithAsp.NetIdentityModel\\obj\\",
+        "projectPath": "C:\\Workspace\\webAPI\\WebAPIWithIdentity\\WebAPIWithAsp.NetIdentityModel\\WebAPIWithAsp.NetIdentityModel.csproj",
+        "packagesPath": "C:\\Users\\jbehera.BRIDGETREE\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\webAPI\\WebAPIWithIdentity\\WebAPIWithAsp.NetIdentityModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jbehera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jbehera.BRIDGETREE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -98,8 +98,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Jitendra\\Workplace\\WEBAPI\\WebAPIWithAsp.NetIdentityModel\\Model\\Model.csproj": {
-                "projectPath": "C:\\Jitendra\\Workplace\\WEBAPI\\WebAPIWithAsp.NetIdentityModel\\Model\\Model.csproj"
+              "C:\\Workspace\\webAPI\\WebAPIWithIdentity\\Model\\Model.csproj": {
+                "projectPath": "C:\\Workspace\\webAPI\\WebAPIWithIdentity\\Model\\Model.csproj"
               }
             }
           }

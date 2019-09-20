@@ -6,3 +6,12 @@ C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Service\obj\Debug\ne
 C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
 C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Service\obj\Debug\netcoreapp2.2\Service.dll
 C:\Jitendra\Workplace\WEBAPI\WebAPIWithAsp.NetIdentityModel\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Workspace\webAPI\WebAPIWithIdentity\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Workspace\webAPI\WebAPIWithIdentity\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Workspace\webAPI\WebAPIWithIdentity\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Workspace\webAPI\WebAPIWithIdentity\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Workspace\webAPI\WebAPIWithIdentity\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\Workspace\webAPI\WebAPIWithIdentity\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Workspace\webAPI\WebAPIWithIdentity\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Workspace\webAPI\WebAPIWithIdentity\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Workspace\webAPI\WebAPIWithIdentity\Service\obj\Debug\netcoreapp2.2\Service.pdb

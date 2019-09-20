@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\jbehera\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\jbehera\\.nuget\\packages",
+      "C:\\Users\\jbehera.BRIDGETREE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jbehera.BRIDGETREE\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }

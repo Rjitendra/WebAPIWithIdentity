@@ -6,8 +6,19 @@ using Model.Entity;
 
 namespace Model.Contexts
 {
-    public class AppDbContext : IdentityDbContext
+    public class AppDbContext : DbContext
     {
+        public AppDbContext(DbContextOptions<AppDbContext> options)
+        : base(options)
+        {
+        }
         // Rest of the code
+        public DbSet<Employee> Employee { get; set; }
+        //protected override void OnModelCreating(ModelBuilder modelBuilder)
+        //{
+        //    base.OnModelCreating(modelBuilder);
+        //    modelBuilder.Seed();
+        //}
     }
+   
 }
