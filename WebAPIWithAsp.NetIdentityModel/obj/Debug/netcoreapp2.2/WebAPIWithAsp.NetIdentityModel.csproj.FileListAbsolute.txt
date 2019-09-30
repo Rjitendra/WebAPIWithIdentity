@@ -23,7 +23,6 @@ C:\Workspace\webAPI\WebAPIWithIdentity\WebAPIWithAsp.NetIdentityModel\bin\Debug\
 C:\Workspace\webAPI\WebAPIWithIdentity\WebAPIWithAsp.NetIdentityModel\bin\Debug\netcoreapp2.2\Model.dll
 C:\Workspace\webAPI\WebAPIWithIdentity\WebAPIWithAsp.NetIdentityModel\bin\Debug\netcoreapp2.2\Model.pdb
 C:\Workspace\webAPI\WebAPIWithIdentity\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.csprojAssemblyReference.cache
-C:\Workspace\webAPI\WebAPIWithIdentity\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.csproj.CoreCompileInputs.cache
 C:\Workspace\webAPI\WebAPIWithIdentity\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.RazorAssemblyInfo.cache
 C:\Workspace\webAPI\WebAPIWithIdentity\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.RazorAssemblyInfo.cs
 C:\Workspace\webAPI\WebAPIWithIdentity\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.AssemblyInfoInputs.cache
@@ -32,3 +31,6 @@ C:\Workspace\webAPI\WebAPIWithIdentity\WebAPIWithAsp.NetIdentityModel\obj\Debug\
 C:\Workspace\webAPI\WebAPIWithIdentity\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.csproj.CopyComplete
 C:\Workspace\webAPI\WebAPIWithIdentity\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.dll
 C:\Workspace\webAPI\WebAPIWithIdentity\WebAPIWithAsp.NetIdentityModel\obj\Debug\netcoreapp2.2\WebAPIWithAsp.NetIdentityModel.pdb
+C:\Workspace\webAPI\WebAPIWithIdentity\WebAPIWithAsp.NetIdentityModel\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Workspace\webAPI\WebAPIWithIdentity\WebAPIWithAsp.NetIdentityModel\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Workspace\webAPI\WebAPIWithIdentity\WebAPIWithAsp.NetIdentityModel\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
